@@ -40,7 +40,7 @@ Outputs: `fig1`–`fig4` PNG files and `results_*.csv` tables.
 ## Authors
 
 Faisal Al Shahwani · Khalid Al Qahtani · Hamad Al Hajri
-Master’s Program in Security Artificial Intelligence, Qatar University, Doha, Qatar.
+Master’s Program in Security Artificial Intelligence, Police Academy, Doha, Qatar.
 
 ## AI-use disclosure
 
