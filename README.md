@@ -1,6 +1,6 @@
 # Is 99.99% Enough? Shortcut Learning and Sampling Bias in the PhiUSIIL Phishing URL Dataset
 
-Code for the paper of the same name, written for the course AIS500 Fundamentals of Artificial Intelligence, Qatar University (2026).
+Code for the paper of the same name, written for the course AIS500 Fundamentals of Artificial Intelligence, Police Academy (2026).
 
 ## What this repository shows
 
